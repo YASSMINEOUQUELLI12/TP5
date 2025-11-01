@@ -5,7 +5,9 @@ Configurer Spring pour gérer l’injection de dépendances et les transactions.
 Intégrer Hibernate pour la gestion des entités persistantes.
 Créer un DAO pour gérer les opérations CRUD.
 Configurer une base de données MySQL pour l’interaction avec les entités.
+
 🧱 Architecture logicielle
+
 Le TP adopte une architecture en couches clairement séparées :
 src/main/java/com/example
 │
@@ -16,6 +18,6 @@ src/main/java/com/example
 └─ Main            → Exécution des opérations CRUD
 Cette séparation garantit réutilisabilité, testabilité et maintenabilité du code.
 <p align="center">
-  <img src="images/screenshot.png" alt="Aperçu" width="600">
+  <img src="https://github.com/YASSMINEOUQUELLI12/TP5/blob/main/CC.PNG" alt="Aperçu" width="600">
 </p>
 
